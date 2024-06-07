@@ -1,0 +1,14 @@
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\bin\Debug\AsciiArtGenerator.exe.config
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\bin\Debug\AsciiArtGenerator.exe
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\bin\Debug\AsciiArtGenerator.pdb
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.csprojAssemblyReference.cache
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.Properties.Resources.resources
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.csproj.GenerateResource.cache
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.csproj.CoreCompileInputs.cache
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.exe
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.pdb
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.csproj.CopyComplete
+C:\Users\brett20\source\repos\AsciiArtGenerator\AsciiArtGenerator\obj\Debug\AsciiArtGenerator.Form1.resources
